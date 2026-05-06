@@ -47,7 +47,7 @@
 &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4               &kp C_PREV &kp C_PP   &kp C_NEXT &kp K_MUTE &kp C_VOL_DN &kp C_VOL_UP
 &kp F1     &kp F2       &kp F3       &kp F4       &kp F5       &kp F6                     &kp N6     &kp N7     &kp N8     &kp N9     &kp N0       &trans
 &trans     &trans       &trans       &trans       &trans       &trans                     &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR   &kp RPAR     &kp TILDE
-&trans     &trans       &trans       &trans       &trans       &trans       &trans &trans &kp MINUS  &kp PLUS   &kp EQUAL  &kp LBRC   &kp RBRC     &kp PIPE
+&trans     &trans       &trans       &trans       &trans       &trans       &trans &ext_power EP_OFF &kp MINUS  &kp PLUS   &kp EQUAL  &kp LBRC   &kp RBRC     &kp PIPE
                                      &trans       &trans       &trans       &trans &trans &trans     &kp DELETE &trans
             >;
 
